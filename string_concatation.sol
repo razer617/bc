@@ -1,5 +1,5 @@
 
-pragma solidity >=0.5.0 <0.9.0; 
+pragma solidity ^0.8.0; 
 contract Demo{
 string public s1 = "Name"; 
 string public s2 = "Change"; 
